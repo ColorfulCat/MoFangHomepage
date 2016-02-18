@@ -471,8 +471,8 @@ label{
 		min-height: 775px;
 	}
 	.top-row-grid h3 {
-		font-size: 3.2em;
-		margin: 0.25em 0 0.1em 0;
+		font-size: 2.5em;
+		margin: 0.22em 0 0.1em 0;
 		letter-spacing: 1px;
 	}
 	.top-row-grids {
@@ -562,10 +562,10 @@ label{
 		padding: 5em 0;
 	}
 	.top-row-grid h3 {
-		font-size: 3em;
+		font-size: 2.3em;
 	}
 	.top-row-grids {
-		padding: 4em 0;
+		padding: 2em 0;
 	}
 	.header-info-left h1 {
 		font-size: 3em;
@@ -712,7 +712,7 @@ label{
 		width: 19%;
 	}		
 	.top-row-grid {
-		width: 33.333%;
+		width: 25%;
 		float: left;
 	}
 	.top-row-grid img {
