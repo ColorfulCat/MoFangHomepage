@@ -57,6 +57,11 @@ label {
 	top: 0.2em;
 }
 
+.erweima{
+	width: 10em;
+	height: 10em;
+}
+
 .header {
 	background: url('../images/banner.jpg') no-repeat 0px 0px;
 	background-size: cover;
